@@ -1,0 +1,4 @@
+conda create -n zoomcamp python=3.9
+conda activate zoomcamp
+
+prefect orion start - starts UI
