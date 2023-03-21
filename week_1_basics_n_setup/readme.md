@@ -68,3 +68,13 @@ Answer is 2019-01-15.
 [1.4_largest_trip_for_each_day.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.4_largest_trip_for_each_day.sql)
 
 ![1.4_largest_trip_for_each_day](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.4_largest_trip_for_each_day.png)
+
+## Question 5. The number of passengers
+
+In 2019-01-01 how many trips had 2 and 3 passengers?
+
+Answer is 2: 1282 ; 3: 254.
+
+[1.5_number_of_passengers.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.5_number_of_passengers.sql)
+
+![1.5_number_of_passengers](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.5_number_of_passengers.png)
