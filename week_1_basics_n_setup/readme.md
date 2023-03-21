@@ -58,7 +58,7 @@ Tip: started and finished on 2019-01-15.
 
 ### Solution
 
-Answer is 20530.
+Answer is 20,530.
 
 [1.3_count_records.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.3_count_records.sql)
 
