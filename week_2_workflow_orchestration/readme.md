@@ -13,4 +13,4 @@ Answer is 447,770
 
 [2.1_etl_web_to_gcs.py](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.1_etl_web_to_gcs.py)
 
-![2.1_etl_web_to_gcs](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.1_etl_web_to_gcs.png)
+
