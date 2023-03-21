@@ -49,3 +49,6 @@ Answer is 14,851,920
 
 ![2.3_number_of_rows](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_number_of_rows.png)
 
+![2.3_gcs](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_gcs.png)
+
+![2.3_bq](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_bq.png)
