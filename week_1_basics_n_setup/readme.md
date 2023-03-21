@@ -63,6 +63,8 @@ Answer is 20530.
 
 Which was the day with the largest trip distance? Use the pick up time for your calculations.
 
+### Solution
+
 Answer is 2019-01-15.
 
 [1.4_largest_trip_for_each_day.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.4_largest_trip_for_each_day.sql)
@@ -73,8 +75,22 @@ Answer is 2019-01-15.
 
 In 2019-01-01 how many trips had 2 and 3 passengers?
 
+### Solution
+
 Answer is 2: 1282 ; 3: 254.
 
 [1.5_number_of_passengers.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.5_number_of_passengers.sql)
 
 ![1.5_number_of_passengers](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.5_number_of_passengers.png)
+
+## Question 6. Largest tip
+
+For the passengers picked up in the Astoria Zone which was the drop off zone that had the largest tip? We want the name of the zone, not the id.
+
+### Solution
+
+Answer is Long Island City/Queens Plaza.
+
+[1.6_largest_tip.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.6_largest_tip.sql)
+
+![1.6_largest_tip](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.6_largest_tip.png)
