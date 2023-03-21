@@ -8,10 +8,12 @@ Run the command to get information on Docker
 ```docker --help```
 
 Now run the command to get help on the "docker build" command
-
 Which tag has the following text? - *Write the image ID to the file*
 
 ### Solution
 --iidfile string
 
 ![docker_build_help](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.1_docker_build_help.png)
+
+## Question 2. Understanding docker first run
+
