@@ -41,7 +41,7 @@ Download this data and put it into Postgres (with jupyter notebooks or with a pi
 
 ### Solution
 
-- Created Postres Database
+- Created Postgres Database in Docker container. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
 - Uploaded green_tripdata and zones tables to the Database. Please see the file [upload_data.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/upload_data.ipynb)
-- 
+- Created pgAdmin daocker container and connected to Postgres Database. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
 
