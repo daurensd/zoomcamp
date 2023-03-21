@@ -25,4 +25,4 @@ Run docker with the python:3.9 image in an interactive mode and the entrypoint o
 
 Answer is 3
 
-
+![python_packages_num](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.2_python_packages_num.png)
