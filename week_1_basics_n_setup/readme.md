@@ -23,7 +23,7 @@ Run docker with the python:3.9 image in an interactive mode and the entrypoint o
 
 ### Solution
 
-Answer is 3
+Answer is 3.
 
 ![python_packages_num](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.2_python_packages_num.png)
 
@@ -43,5 +43,18 @@ Download this data and put it into Postgres (with jupyter notebooks or with a pi
 
 - Created Postgres Database in Docker container. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
 - Uploaded green_tripdata and zones tables to the Database. Please see the file [upload_data.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/upload_data.ipynb)
-- Created pgAdmin daocker container and connected to Postgres Database. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
+- Created pgAdmin docker container and connected to the Database. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
 
+## Question 3. Count records
+
+How many taxi trips were totally made on January 15?
+
+Tip: started and finished on 2019-01-15.
+
+### Solution
+
+Answer is 20530.
+
+[1.3_count_records.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.3_count_records.sql)
+
+![1.3_count_records](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.3_count_records.png)
