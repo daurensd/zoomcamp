@@ -46,7 +46,7 @@ Download this data and put it into Postgres (with jupyter notebooks or with a pi
 
 [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
 
-- Uploaded green_tripdata and zones tables to the Database. Please see the link below.
+- Uploaded green_tripdata and zones tables to the Database with jupyter notebook. Please see the link below.
 
 [upload_data.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/upload_data.ipynb)
 
