@@ -47,9 +47,9 @@ Make sure you have the parquet data files for Yellow taxi data for Feb. 2019 and
 
 Answer is 14,851,920
 
-[2.3_etl_web_to_gcs_v2](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_etl_web_to_gcs_v2.py)
+[2.3_etl_web_to_gcs_v2.py](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_etl_web_to_gcs_v2.py)
 
-[2.3_etl_gcs_to_bq](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_etl_gcs_to_bq.py)
+[2.3_etl_gcs_to_bq.py](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_etl_gcs_to_bq.py)
 
 ![2.3_number_of_rows](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.3_number_of_rows.png)
 
