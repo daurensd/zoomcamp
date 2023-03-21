@@ -6,7 +6,7 @@ docker-compose down
 # Network
 docker network create pg-network
 
-# pgcli
+# Postgres DB
 docker run -it \
   -e POSTGRES_USER="root" \
   -e POSTGRES_PASSWORD="root" \
