@@ -41,9 +41,14 @@ Download this data and put it into Postgres (with jupyter notebooks or with a pi
 
 ### Solution
 
-- Created Postgres Database in Docker container. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
-- Uploaded green_tripdata and zones tables to the Database. Please see the file [upload_data.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/upload_data.ipynb)
-- Created pgAdmin docker container and connected to the Database. Please see the file [bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
+- Created Postgres Database in Docker container. Please see the link below.
+- Created pgAdmin docker container and connected to the Database. Please see the link below.
+
+[bash_commands](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/bash_commands.yml)
+
+- Uploaded green_tripdata and zones tables to the Database. Please see the link below.
+
+[upload_data.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/upload_data.ipynb)
 
 ## Question 3. Count records
 
