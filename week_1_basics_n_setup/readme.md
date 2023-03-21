@@ -26,3 +26,16 @@ Run docker with the python:3.9 image in an interactive mode and the entrypoint o
 Answer is 3
 
 ![python_packages_num](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.2_python_packages_num.png)
+
+## Prepare Postgres
+
+Run Postgres and load data as shown in the videos We'll use the green taxi trips from January 2019:
+
+wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz
+
+You will also need the dataset with zones:
+
+wget https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv
+
+Download this data and put it into Postgres (with jupyter notebooks or with a pipeline)
+
