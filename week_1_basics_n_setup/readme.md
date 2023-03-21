@@ -58,3 +58,13 @@ Answer is 20530.
 [1.3_count_records.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.3_count_records.sql)
 
 ![1.3_count_records](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.3_count_records.png)
+
+## Question 4. Largest trip for each day
+
+Which was the day with the largest trip distance? Use the pick up time for your calculations.
+
+Answer is 2019-01-15.
+
+[1.4_largest_trip_for_each_day.sql](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.4_largest_trip_for_each_day.sql)
+
+![1.4_largest_trip_for_each_day](https://github.com/daurensd/zoomcamp/blob/main/week_1_basics_n_setup/1.4_largest_trip_for_each_day.sql)
