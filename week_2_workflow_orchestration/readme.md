@@ -16,3 +16,15 @@ Answer is 447,770
 ![2.1_etl_web_to_gcs](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.1_etl_web_to_gcs.png)
 
 ![2.1_etl_web_to_gcs_bucket_details](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.1_etl_web_to_gcs_bucket_details.png)
+
+## Question 2. Scheduling with Cron
+
+Cron is a common scheduling specification for workflows.
+
+Using the flow in etl_web_to_gcs.py, create a deployment to run on the first of every month at 5am UTC. What’s the cron schedule for that?
+
+### Solution
+
+Answer is `0 5 1 * *`
+
+![2.2_scheduling_with_cron](https://github.com/daurensd/zoomcamp/blob/main/week_2_workflow_orchestration/2.2_scheduling_with_cron.png)
