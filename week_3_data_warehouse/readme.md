@@ -12,6 +12,7 @@ Data can be found here: https://github.com/DataTalksClub/nyc-tlc-data/releases/t
 
 ### Solution
 [3_web_to_gcs.py](https://github.com/daurensd/zoomcamp/blob/main/week_3_data_warehouse/3_web_to_gcs.py)
+
 ![3_web_to_gcs](https://github.com/daurensd/zoomcamp/blob/main/week_3_data_warehouse/3_web_to_gcs.png)
 
 ## Question 1:
