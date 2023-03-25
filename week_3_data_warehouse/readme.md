@@ -11,7 +11,7 @@ Create a table in BQ using the fhv 2019 data (do not partition or cluster this t
 Data can be found here: https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/fhv </p>
 
 ### Solution
-
+[3_web_to_gcs](https://github.com/daurensd/zoomcamp/blob/main/week_3_data_warehouse/3_web_to_gcs.py)
 
 
 ## Question 1:
