@@ -17,4 +17,6 @@ What's the output?
 
 ### Solution
 
-Answer is .
+Answer is 3.3.2.
+
+![5.1_spark_version](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.1_spark_version.png)
