@@ -92,3 +92,5 @@ Answer is Crown Heights North.
 
 [5_spark_hw.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5_spark_hw.ipynb)
 ![5.6_frequent_pu_location](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.6_frequent_pu_location.png)
+
+sad
