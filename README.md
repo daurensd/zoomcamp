@@ -1,8 +1,8 @@
 # Data Engineering Zoomcamp
 
 * [Week 1: Basics and setup](https://github.com/daurensd/zoomcamp/tree/main/week_1_basics_n_setup)
-Running Postgres with Docker
-Running pgAdmin with Docker
+- Running Postgres with Docker
+- Running pgAdmin with Docker
 * [Week 2: Workflow Orchestration](https://github.com/daurensd/zoomcamp/tree/main/week_2_workflow_orchestration)
 Workflow orchestration
 ETL with GCP & Prefect
