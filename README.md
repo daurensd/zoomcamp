@@ -4,11 +4,11 @@
   - Running Postgres with Docker
   - Running pgAdmin with Docker
 * [Week 2: Workflow Orchestration](https://github.com/daurensd/zoomcamp/tree/main/week_2_workflow_orchestration)
-Workflow orchestration
-ETL with GCP & Prefect
+  - Workflow orchestration
+  - ETL with GCP & Prefect
 * [Week 3: Data Warehouse](https://github.com/daurensd/zoomcamp/tree/main/week_3_data_warehouse)
-BigQuery
-Partitioning and clustering
+  - BigQuery
+  - Partitioning and clustering
 * [Week 5: Batch processing](https://github.com/daurensd/zoomcamp/tree/main/week_5_batch_processing)
-Spark Dataframes
-Spark SQL
+  - Spark Dataframes
+  - Spark SQL
