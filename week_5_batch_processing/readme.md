@@ -35,6 +35,7 @@ What is the average size of the Parquet (ending with .parquet extension) Files t
 Answer is 24MB.
 
 [5_spark_hw.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5_spark_hw.ipynb)
+
 ![5.2_file_avg_size](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.2_file_avg_size.png)
 
 ## Question 3: 
@@ -49,6 +50,7 @@ Consider only trips that started on June 15.</br>
 Answer is 452,470.
 
 [5_spark_hw.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5_spark_hw.ipynb)
+
 ![5.3_trips_num](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.3_trips_num.png)
 
 ## Question 4: 
@@ -63,6 +65,7 @@ How long was the longest trip in Hours?</br>
 Answer is 66.87 Hours.
 
 [5_spark_hw.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5_spark_hw.ipynb)
+
 ![5.4_max_duration](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.4_max_duration.png)
 
 ## Question 5: 
@@ -91,6 +94,5 @@ Using the zone lookup data and the fhvhv June 2021 data, what is the name of the
 Answer is Crown Heights North.
 
 [5_spark_hw.ipynb](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5_spark_hw.ipynb)
-![5.6_frequent_pu_location](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.6_frequent_pu_location.png)
 
-sad
+![5.6_frequent_pu_location](https://github.com/daurensd/zoomcamp/blob/main/week_5_batch_processing/5.6_frequent_pu_location.png)
